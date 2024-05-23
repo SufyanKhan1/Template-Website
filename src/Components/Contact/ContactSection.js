@@ -102,7 +102,7 @@ const ContactSection = () => {
                       <Col span={24}>
                         <Form.Item>
                           <label>Message</label>
-                          <TextArea/>
+                          <TextArea />
                         </Form.Item>
                       </Col>
                       <Col span={24} className="submit-btn">
