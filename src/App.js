@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import AboutSection from "./Components/About/AboutSection";
 import ContactSection from "./Components/Contact/ContactSection";
@@ -7,13 +8,13 @@ import SuccessSection from "./Components/Success/SuccessSection";
 
 function App() {
   return (
-    <>
+    <React.Fragment>
       <HeaderSection />
       <SuccessSection />
       <AboutSection />
       <HelpSection />
       <ContactSection />
-    </>
+    </React.Fragment>
   );
 }
 
