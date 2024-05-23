@@ -48,7 +48,7 @@ const AboutSection = () => {
                           edit me. It’s easy. Just click “Edit Text” or double
                           click me to add your own content and make changes to
                           the font. Feel free to drag and drop me anywhere you
-                          like on your page. ​
+                          like on your page.
                         </p>
                       </Col>
                     </Row>
